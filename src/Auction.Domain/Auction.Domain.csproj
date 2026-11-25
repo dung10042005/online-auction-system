@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Auction.Domain</AssemblyName>
+    <RootNamespace>Auction.Domain</RootNamespace>
+  </PropertyGroup>
+</Project>
